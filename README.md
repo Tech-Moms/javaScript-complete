@@ -1,4 +1,4 @@
-# week-4-completed-code
+# week-5-completed-code
 
 ## About
 Completed code for [TechMoms](https://www.tech-moms.org/ "TechMoms") Week 5 Intro to JavaScript.
